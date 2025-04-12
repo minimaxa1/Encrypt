@@ -115,5 +115,5 @@ Do not attempt to use concepts depicted here for illegal or unethical activities
 
 ## License
 
-(GNU)
+(GNU - GENERAL PUBLIC LICENSE)
 

@@ -12,13 +12,13 @@ Hong Kong Slum Patrol which you can read for free and test out here: https://new
 1.  [Neural Encryption Interface (`neural_encryption_dark.py`)](#neural-encryption-interface)
 2.  [MIMIC - Network Infiltration System (`mimic.py`)](#mimic---network-infiltration-system)
 
----
+
 
 ## 1. Neural Encryption Interface (`neural_encryption_dark.py`)
 
 Simulates accessing a high-security system ("Axiom Secure") through a neural interface. The process involves establishing a connection, visualizing a generated encryption key, and simulating the transfer and display of sensitive data.
 
-Screenshot:
+
 ![Neural Encrypter](https://github.com/user-attachments/assets/248700c3-206d-48db-87a6-319c75a4e935)
 
 
@@ -38,7 +38,7 @@ Screenshot:
 
 Simulates an advanced tool ("MIMIC") used for infiltrating secure computer networks. It features a dynamic network graph, a terminal-like log output, and progresses through stages of scanning, infiltration, analysis, and data gathering.
 
-Screenshot:
+
 ![Mimic](https://github.com/user-attachments/assets/c2f724e5-2af0-4db8-9187-c76df7507dc1)
 
 ### Features

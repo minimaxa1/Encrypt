@@ -1,4 +1,4 @@
-# Tkinter GUI Simulations: Neural Encryption & Network Infiltration
+Neural Encryption & Network Infiltration - Tkinter GUI Simulations: 
 
 This repository contains two Python graphical user interface (GUI) applications built using Tkinter library. These applications simulate futuristic/cyberpunk-themed interfaces: one for accessing a secure system via a neural implant and another for simulating a network infiltration process.
 

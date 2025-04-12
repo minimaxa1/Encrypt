@@ -4,7 +4,7 @@ This repository contains two Python graphical user interface (GUI) applications 
 
 **Note:** These are purely **simulations** for visual demonstration and educational purposes. They do not perform any real encryption, network scanning, or hacking activities.
 
-They were created for a graphical comic story- FUGITIVE DAWN
+They were created for a graphical comic story: FUGITIVE DAWN
 Hong Kong Slum Patrol which you can read for free and test out here: https://new.express.adobe.com/webpage/YaTMGDsZ6EWiS
 
 ## Applications
